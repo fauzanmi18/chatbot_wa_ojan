@@ -1,0 +1,2 @@
+const defaultMsg = 'Halo! Selamat datang di pusat bantuan, silahkan pilih menu pertanyaan berikut dan reply dengan angka yang tertera:\n1. Tentang Produk\n2. Tentang Layanan\n3. Livechat dengan admin.'
+module.exports = defaultMsg
